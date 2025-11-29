@@ -419,5 +419,47 @@ https://theqwertiest.github.io/foo_spider_monkey_panel/docs/script_showcase/sing
 - My own SMP script, an image slideshow visualizer with extensive customization options.
 - Right-click the panel and click 'Configure panel..'
 - Specifiy image paths
+- Use portrait style images for the best results
 
-  
+<img width="756" height="70" alt="image" src="https://github.com/user-attachments/assets/83eaf317-fa5b-45d5-b1f2-f7c3b5b04da0" />
+
+<img width="1011" height="731" alt="image" src="https://github.com/user-attachments/assets/bf0b7af4-6586-4b3e-9c36-015117ee4721" />
+
+- The first image is set to 'single_zoom' which means it'll only show the first image and zoom at its current specified speed.
+- If you want the script to rotate through all you images, set it to 'slide_show'
+
+![Animation1-ezgif com-optimize](https://github.com/user-attachments/assets/e764434a-cb26-49bd-b9e2-1ab850feb9d8)
+
+- To remove the tint or change the color adjust these values:
+
+<img width="541" height="40" alt="image" src="https://github.com/user-attachments/assets/53181876-a8a3-4b06-ab36-5773c7b79c3e" />
+
+- Play around with these options to change the zoon direction
+- You can change it to where it'll pan across the image instead of just zooming into the center like so:
+
+
+<img width="536" height="40" alt="image" src="https://github.com/user-attachments/assets/ff524f44-9f71-4d52-9e76-ff79a72827f1" />
+
+- Can also adjut how long you want an image to persist, just increase/decrease the ms. 
+
+<img width="433" height="26" alt="image" src="https://github.com/user-attachments/assets/0fca3132-bb80-4980-a7c3-57b437d40e08" />
+
+- Fade speed refers to how fast you want the transition to happen to the next image.
+- Lower value = slower transition fade
+
+<img width="453" height="25" alt="image" src="https://github.com/user-attachments/assets/2f7f83cb-6282-4ef6-8bd2-aa989891b421" />
+
+- If you just want to have a single image only, you can choose a static or single_zoom mode for that image
+- Static will not move.
+- Single_zoom will move around using your settings on that image. This will offer a more dynamic mode. 
+<img width="1020" height="407" alt="image" src="https://github.com/user-attachments/assets/77345497-d0f5-4956-8d69-913e5380cac5" />
+
+
+## Left-Panel
+### Playlist Cover Tab Manager
+- Also a script by me.
+- Essentially replaces playlist tabs and functions like a spotify-like playlist manager.
+- You can do all of the essentials like Save, Load, Delete, Rename, Move, Add and Duplicate playlists
+- As well as extensive customizations avaiable.
+- A github for more details is provided: https://github.com/xaIex/Playlist-Tab-Cover-Manager
+
