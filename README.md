@@ -6,7 +6,7 @@ A Cyberpunk Theme for Columns UI Foobar2000
 - [Install Foobar]
 
 ### Import Theme:
-[Import Theme (Just show me how to import the theme)](#Importing Theme)
+- [Import Theme (Just show me how to import the theme)](#Importing-Theme)
 
 ### Tips/How To:
 [Add songs/albums to a playlist]
