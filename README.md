@@ -252,4 +252,43 @@ Some of the panels are collasped and just need to be adjust to your screen. Sinc
 
 #### Waveform Minibar
 Now for the final step is to adjust the waveform mini bar. 
+- Ctrl + P or Top left, foobar icon, File > preferences > display > columns ui > layout 
+- Scroll down to 'Waveform Minibar' and click 'Show Caption' Hit OK
+- Another faster way is to just use live editing like so and you can right click the wavebar and show the caption that way:
   
+
+<img width="609" height="239" alt="image" src="https://github.com/user-attachments/assets/841446d4-8a06-4088-be24-f83047b3fe5d" />
+
+Right click on the waveform bar
+
+<img width="298" height="246" alt="image" src="https://github.com/user-attachments/assets/926bf50c-57ae-4ebe-afe2-ea72d1cc364f" />
+
+-  Make sure to disable live editing when you are finished
+
+- You can now adjust it like a normal window to fit your screen
+
+<img width="739" height="62" alt="image" src="https://github.com/user-attachments/assets/cd0cb82a-e76e-4217-837d-756b15aadd36" />
+
+- Once you are done, right click and uncheck show caption
+<img width="398" height="135" alt="image" src="https://github.com/user-attachments/assets/ff0539db-74b4-489c-80bf-3e5e41a580a7" />
+
+<img width="726" height="115" alt="image" src="https://github.com/user-attachments/assets/7238b332-20e4-411f-b1d2-e15c00404882" />
+
+- Looks better!
+- But there still a weird outline, why? 
+- We just need to enable uncheck a box in preferences. Simply right click the waveform bar and click 'configure'
+- Check 'Transparent background (require Columns UI)' and Uncheck 'Draw window border'
+
+<img width="739" height="571" alt="image" src="https://github.com/user-attachments/assets/b0d00b1c-25bf-42ca-b119-60acd4e47aaa" />
+
+### Final Touches
+One last step!
+- Once you have everything set and adjusted to your liking, you can remove the grey borders so you dont accidently move them again.
+- File > Prefrences > Layout > Misc
+- Set the divider width px to 0. 
+- If you ever need to adjust again, just set it to a value other than 0
+
+- If you did all the steps correctly this is how the theme should look like!
+14in Screen:
+<img width="1920" height="1030" alt="image" src="https://github.com/user-attachments/assets/00fab575-ade9-478d-9c66-97dc90af03f2" />
+
