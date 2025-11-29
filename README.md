@@ -34,7 +34,7 @@ A Cyberpunk Theme for Columns UI Foobar2000. Focused on a clean look with switch
 - [Right Panels](#right-side-panel)
 - [Left  Panel](#left-panel)
 - [Center Panel](#main-center-panel)
-
+- [Add your own panels/scripts]
 ### Scripts By Me Usage:
 - [Playlist Cover Tab Manager](#playlist-cover-tab-manager)
 - [Dynamic Image Panel](#dynamic-image-panel-main)
@@ -516,3 +516,50 @@ File > Prefrences > Tools > Last.fm Playcount.Sync
 
 - Make a last.fm account and authorise it.
 - You then should be able to click the hearts in the Fluent Control Panel (Credit to u/eurekagliese)
+
+
+## Editing Theme/Adding your own panels or scripts
+
+- Previously I showed you can use the `live layout editing` feature through File > Layout > live editing or File > Preferences > Display > Columns UI > Layout
+- I like doing it the second way as it gives me more control and an overview.
+- For example, lets say we want to change some of the panels in the right side of the theme.
+- Here is how the layout is correlated to the panels
+- Each entry is nested into the `Tab Stack` which allows us to have mutliple panels in one.
+- `Vertical Splitter` Allow for panels to be placed stacked on top of each other.
+- `Output Device`, `Playback Order` and SMP for ex are nested in the `Vertical Splitter` which is nested within `Tab Stack`
+
+<img width="1251" height="672" alt="image" src="https://github.com/user-attachments/assets/c19290dd-913b-4e12-812c-ccee6aaeac97" />
+
+- If you want to add another panel, simply right click on `Tab Stack` and add your panel or splitter like so:
+
+<img width="697" height="357" alt="image" src="https://github.com/user-attachments/assets/cca2a0dc-b4ac-40ee-b0fc-6bf2333df20c" />
+
+<img width="937" height="680" alt="image" src="https://github.com/user-attachments/assets/857f1e88-5afb-47d6-bdea-0d8910eee934" />
+
+- If you want to remove it, simply right click and remove panel
+
+<img width="282" height="123" alt="image" src="https://github.com/user-attachments/assets/425d1bf7-693a-442f-b0d7-8317fd970334" />
+
+
+- Lets say we want to change the lyrics panel to another panel
+- First, remove panel
+
+<img width="276" height="163" alt="image" src="https://github.com/user-attachments/assets/bbbb3302-8d62-4bfd-a99e-f3f5555ff6d8" />
+
+- Go to its parent, `Vertical Splitter` and click right click
+
+<img width="797" height="403" alt="image" src="https://github.com/user-attachments/assets/5a45f887-ef8e-4b9d-bf88-1fafc3ab0d52" />
+
+- You can move around the panel with `Move Up` or `Move Down`
+
+<img width="371" height="171" alt="image" src="https://github.com/user-attachments/assets/2a4408e1-4e64-43f3-bb27-c969d1da9ece" />
+
+- Successfully added!
+
+<img width="328" height="1245" alt="image" src="https://github.com/user-attachments/assets/6ff373ff-b79e-44d2-9e43-34dfd27c05ec" />
+
+
+
+
+
+
