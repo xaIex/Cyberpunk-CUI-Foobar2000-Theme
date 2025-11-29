@@ -32,6 +32,7 @@ A Cyberpunk Theme for Columns UI Foobar2000. Focused on a clean look while utliz
 - [Cover Panels](#cover-main-view-usage)
 - [Right Panels](#right-side-panel)
 - [Left  Panel](#left-panel)
+- [Center Panel](#main-center-panel)
 
 ### Scripts By Me Usage:
 - [Playlist Cover Tab Manager](#playlist-cover-tab-manager)
