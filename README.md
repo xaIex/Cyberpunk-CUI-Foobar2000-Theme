@@ -39,6 +39,12 @@ A Cyberpunk Theme for Columns UI Foobar2000. Focused on a clean look with switch
 - [Playlist Cover Tab Manager](#playlist-cover-tab-manager)
 - [Dynamic Image Panel](#dynamic-image-panel-main)
 
+## Download Theme
+- Click on the `theme` folder in the repo.
+- Click of the fcl file
+
+<img width="392" height="216" alt="image" src="https://github.com/user-attachments/assets/f445898a-7f64-46d2-9b9e-9ae1be041abf" />
+
 
 ### Initial install
 - I will be showing you how to install this theme on a completely fresh install.
