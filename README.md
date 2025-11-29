@@ -1,11 +1,10 @@
 # Cyberpunk-CUI-Foobar2000-Theme
 A Cyberpunk Theme for Columns UI Foobar2000. Focused on a clean look while utlizing several community components and scripts. 
 
-![Animation3](https://github.com/user-attachments/assets/4aa821ba-3aba-48f9-8d8b-366e6265109e)
 
+![Animation7](https://github.com/user-attachments/assets/e06f9760-af55-4097-9a1d-575f4d9759cd)
 
-<img width="2553" height="1351" alt="image" src="https://github.com/user-attachments/assets/dc573bd0-e9f1-4dac-89b9-9c5c99f9dd7d" />
-
+![Animation788756-ezgif com-optimize](https://github.com/user-attachments/assets/8937725c-9e53-47d6-a026-4671add21d0a)
 
 
 ## Index 
