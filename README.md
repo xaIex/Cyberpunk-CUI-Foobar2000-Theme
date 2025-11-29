@@ -35,6 +35,7 @@ A Cyberpunk Theme for Columns UI Foobar2000. Focused on a clean look with switch
 - [Left  Panel](#left-panel)
 - [Center Panel](#main-center-panel)
 - [Editing your Theme/Add your own panels](#editing-themeadding-your-own-panels-or-scripts)
+- [Hotkeys/Shortcuts](#hotkeys-shortcuts)
   
 ### Scripts By Me Usage:
 - [Playlist Cover Tab Manager](#playlist-cover-tab-manager)
@@ -566,6 +567,9 @@ File > Prefrences > Tools > Last.fm Playcount.Sync
 
 - You can now create or editing your own theme to your liking~
 
+## Hotkeys/Shortcuts
+- You can further customize your keyboard shortcuts here:
+<img width="864" height="681" alt="image" src="https://github.com/user-attachments/assets/adf2a2d5-57c0-41da-9f89-ef936ad83c18" />
 
 
 
