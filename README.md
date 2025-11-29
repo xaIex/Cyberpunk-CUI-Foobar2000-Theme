@@ -569,7 +569,8 @@ File > Prefrences > Tools > Last.fm Playcount.Sync
 
 ## Hotkeys/Shortcuts
 - You can further customize your keyboard shortcuts here:
-<img width="864" height="681" alt="image" src="https://github.com/user-attachments/assets/adf2a2d5-57c0-41da-9f89-ef936ad83c18" />
+
+<img width="859" height="672" alt="image" src="https://github.com/user-attachments/assets/1f0e65f5-f2fa-4b91-b42a-d566e81beb0a" />
 
 
 
