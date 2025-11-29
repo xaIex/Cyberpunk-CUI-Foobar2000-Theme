@@ -49,6 +49,7 @@ A Cyberpunk Theme for Columns UI Foobar2000. Focused on a clean look with switch
 
 <img width="256" height="137" alt="image" src="https://github.com/user-attachments/assets/0488e724-3216-4380-a869-a10cdc9e5f8c" />
 
+- Ready for importing!
 
 ### Initial install
 - I will be showing you how to install this theme on a completely fresh install.
