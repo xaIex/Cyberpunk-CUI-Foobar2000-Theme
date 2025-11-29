@@ -43,9 +43,10 @@ A Cyberpunk Theme for Columns UI Foobar2000. Focused on a clean look while utliz
 ### Initial install
 - I will be showing you how to install this theme on a completely fresh install.
 - First, download foobar from https://www.foobar2000.org/windows
-  <img width="400" height="206" alt="image" src="https://github.com/user-attachments/assets/d368aa59-2b9f-4e16-bf7a-6deefd1b2fa8" />
+
+<img width="400" height="206" alt="image" src="https://github.com/user-attachments/assets/d368aa59-2b9f-4e16-bf7a-6deefd1b2fa8" />
   
-  - Select 32bit verison
+- Select 32bit verison
 
 
 <img width="400" height="305" alt="image" src="https://github.com/user-attachments/assets/c69a9422-f5bb-4785-abd4-b270fe28d697" />
