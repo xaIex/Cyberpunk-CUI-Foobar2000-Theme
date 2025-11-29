@@ -1,4 +1,4 @@
-<img width="648" height="507" alt="image" src="https://github.com/user-attachments/assets/d5515342-53e8-4649-a665-bc5676436a64" /># Cyberpunk-CUI-Foobar2000-Theme
+# Cyberpunk-CUI-Foobar2000-Theme
 A Cyberpunk Theme for Columns UI Foobar2000
 
 ## Index 
