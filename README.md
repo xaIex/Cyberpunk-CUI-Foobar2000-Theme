@@ -177,7 +177,7 @@ After downloading, your folder should look something like this, ready to install
 <img width="502" height="473" alt="image" src="https://github.com/user-attachments/assets/6c5e6e6c-09f9-4a77-b7ed-f36bf6f54767" />
 
 - Now just to make sure they are working properly, we should test them before we import the theme.
-- Make sure your media libaray to pointing to your music folder. File > Preferences > Media Library > Add Folder and Apply
+- Make sure your media library is pointing to your music folder. File > Preferences > Media Library > Add Folder and Apply
 
 - Follow the same steps above! Live Layout Editing and right click to add another SMP
 - Deselect Live Layout Editing and right-click to configure panel.
@@ -216,7 +216,7 @@ File > Preferences > Columns UI > Import Configuration...
 <img width="718" height="408" alt="image" src="https://github.com/user-attachments/assets/0aa6aa35-365e-4193-9113-814355316f0b" />
 
 - Now the colors are accurate! But where are the rest of the panels? 
-Some of the panels are collasped and just need to be adjust to your screen. Since my theme was made on a 24in monitor, my small laptop doesnt have enough screen for that so we need to adjust with the dividers. 
+Some of the panels are collasped and just need to be adjusted to your screen. Since my theme was made on a 24in monitor, my small laptop doesnt have enough screen for that so we need to adjust with the dividers. 
 
 - Pull this divider out:
 
