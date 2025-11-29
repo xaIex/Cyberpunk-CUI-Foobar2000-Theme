@@ -2,8 +2,22 @@
 A Cyberpunk Theme for Columns UI Foobar2000
 
 ## Index 
-### - Step by Step guidance (new users)
-### - Install theme (Just show me how to import the theme)
+### Step by Step guidance:
+- [Install Foobar]
+
+### Import Theme:
+- [Import Theme (Just show me how to import the theme)](#Importing Theme)
+
+### Tips/How To:
+- [Add songs/albums to a playlist]
+- [Searching]
+- [File menu navigation]
+- [Lyrics]
+- [Last FM]
+
+## Scripts By Me Usage:
+- [Playlist Cover Tab Manager]
+- [Dynamic Image Panel]
 
 ## Step By Step Guidance
 ### Initial install
