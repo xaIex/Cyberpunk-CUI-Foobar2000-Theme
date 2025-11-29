@@ -23,7 +23,7 @@ A Cyberpunk Theme for Columns UI Foobar2000. Focused on a clean look with switch
   
 7. [Adjusting Waveform Minibar](#waveform-minibar)
 
-8. [Final Adjustments](#final-touches)
+8. [Final Adjustments/Divider](#final-touches)
 
 ### Import Theme:
 
@@ -453,7 +453,7 @@ https://theqwertiest.github.io/foo_spider_monkey_panel/docs/script_showcase/sing
 
 <img width="536" height="40" alt="image" src="https://github.com/user-attachments/assets/ff524f44-9f71-4d52-9e76-ff79a72827f1" />
 
-- Can also adjut how long you want an image to persist, just increase/decrease the ms. 
+- Can also adjust how long you want an image to persist, just increase/decrease the ms. 
 
 <img width="433" height="26" alt="image" src="https://github.com/user-attachments/assets/0fca3132-bb80-4980-a7c3-57b437d40e08" />
 
