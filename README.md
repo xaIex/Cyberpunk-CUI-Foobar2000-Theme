@@ -289,6 +289,13 @@ One last step!
 - If you ever need to adjust again, just set it to a value other than 0
 
 - If you did all the steps correctly this is how the theme should look like!
-14in Screen:
+
+14in Laptop:
+
 <img width="1920" height="1030" alt="image" src="https://github.com/user-attachments/assets/00fab575-ade9-478d-9c66-97dc90af03f2" />
+
+24in Monitor:
+
+<img width="2558" height="1381" alt="image" src="https://github.com/user-attachments/assets/d3fd5329-4722-4314-8ffc-facd8212a9b5" />
+
 
