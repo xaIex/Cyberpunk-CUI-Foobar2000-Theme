@@ -501,5 +501,5 @@ https://theqwertiest.github.io/foo_spider_monkey_panel/docs/script_showcase/sing
 
 File > Prefrences > Tools > Last.fm Playcount.Sync
 
-- Make a last.fm count and authorise it.
+- Make a last.fm account and authorise it.
 - You then should be able to click the hearts in the Fluent Control Panel (Credit to u/eurekagliese)
