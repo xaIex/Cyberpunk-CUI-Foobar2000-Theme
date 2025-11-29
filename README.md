@@ -564,7 +564,7 @@ File > Prefrences > Tools > Last.fm Playcount.Sync
 
 <img width="328" height="1245" alt="image" src="https://github.com/user-attachments/assets/6ff373ff-b79e-44d2-9e43-34dfd27c05ec" />
 
-
+- You can now create or editing your own theme to your liking~
 
 
 
