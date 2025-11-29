@@ -527,7 +527,7 @@ File > Prefrences > Tools > Last.fm Playcount.Sync
 - Each entry is nested into the `Tab Stack` which allows us to have mutliple panels in one.
 - `Vertical Splitter` Allow for panels to be placed stacked on top of each other.
 - `Output Device`, `Playback Order` and SMP for ex are nested in the `Vertical Splitter` which is nested within `Tab Stack`
-- Note: Dependning on your OS, the naming convention may be different but still the same.
+- Note: Depending on your OS, the naming convention may be different but still the same.
 - `Vertical Splitter` = `Column`
 - `Horizontonal Splitter` = `Row`
 
