@@ -29,15 +29,13 @@ A Cyberpunk Theme for Columns UI Foobar2000. Focused on a clean look while utliz
 - [Installation Instructions](#importing-theme)  (Just show me how to import the theme)
 
 ### Tips/How To:
-[Add songs/albums to a playlist]
-[Searching]
-[File menu navigation]
-[Lyrics]
-[Last FM]
+- [Cover Panels](#cover-main-view-usage)
+- [Right Panels](#right-side-panel)
+- [Left  Panel](#left-panel)
 
 ### Scripts By Me Usage:
-- [Playlist Cover Tab Manager]
-- [Dynamic Image Panel]
+- [Playlist Cover Tab Manager](#playlist-cover-tab-manager)
+- [Dynamic Image Panel](#dynamic-image-panel-main)
 
 
 ### Initial install
@@ -434,7 +432,7 @@ https://theqwertiest.github.io/foo_spider_monkey_panel/docs/script_showcase/sing
 
 <img width="541" height="40" alt="image" src="https://github.com/user-attachments/assets/53181876-a8a3-4b06-ab36-5773c7b79c3e" />
 
-- Play around with these options to change the zoon direction
+- Play around with these options to change the zoom direction
 - You can change it to where it'll pan across the image instead of just zooming into the center like so:
 
 
@@ -455,7 +453,7 @@ https://theqwertiest.github.io/foo_spider_monkey_panel/docs/script_showcase/sing
 <img width="1020" height="407" alt="image" src="https://github.com/user-attachments/assets/77345497-d0f5-4956-8d69-913e5380cac5" />
 
 
-## Left-Panel
+## Left Panel
 ### Playlist Cover Tab Manager
 - Also a script by me.
 - Essentially replaces playlist tabs and functions like a spotify-like playlist manager.
@@ -463,3 +461,44 @@ https://theqwertiest.github.io/foo_spider_monkey_panel/docs/script_showcase/sing
 - As well as extensive customizations avaiable.
 - A github for more details is provided: https://github.com/xaIex/Playlist-Tab-Cover-Manager
 
+
+<img width="156" height="1151" alt="image" src="https://github.com/user-attachments/assets/2df19b4e-57a6-4413-8202-8d83ad6039be" />
+
+### File Menu
+<img width="51" height="61" alt="image" src="https://github.com/user-attachments/assets/7ef4e8e4-ae1b-4be0-b2f0-01dd60d72318" />
+
+https://theqwertiest.github.io/foo_spider_monkey_panel/docs/script_showcase/single_panel_scripts/#main-menu-button
+- SMP script that replaces the toolbar
+
+## Main Center Panel
+### JS Smooth Playlist, Adding songs to a playlist easily
+https://theqwertiest.github.io/foo_spider_monkey_panel/docs/script_showcase/single_panel_scripts/#js-smooth-playlist
+- Using main playlist viewer, JS Smooth Browser, simply drag and drop to a specified playlist 
+
+
+<img width="1449" height="710" alt="image" src="https://github.com/user-attachments/assets/8379b887-d593-4e8f-b693-35383d1edcf8" />
+
+- Click the title of the album or the indivdual song to add it to your specified playlist 
+
+### Searching within the playlist
+- From the top left, search what artist, song, album you are looking for in that playlist
+
+<img width="216" height="105" alt="image" src="https://github.com/user-attachments/assets/eee9f6e1-8add-42c3-a9cf-59802b73a8ce" />
+
+### Spectrum Analyzer
+
+<img width="1443" height="140" alt="image" src="https://github.com/user-attachments/assets/d261092f-3975-444c-90d8-14382e07fb4b" />
+
+- Curve Peak Line will reflect album art cover
+- Right-click > Configure to customize further if needed
+
+## Last FM Profile 
+- If you downloaded all of my components you should have this option to sync foobar with last.fm for scrobbling
+
+
+<img width="659" height="608" alt="image" src="https://github.com/user-attachments/assets/b9fe9911-034a-4acb-818d-7f73f645a58f" />
+
+File > Prefrences > Tools > Last.fm Playcount.Sync
+
+- Make a last.fm count and authorise it.
+- You then should be able to click the hearts in the Fluent Control Panel (Credit to u/eurekagliese)
