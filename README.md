@@ -35,7 +35,7 @@ A Cyberpunk Theme for Columns UI Foobar2000. Focused on a clean look with switch
 - [Left  Panel](#left-panel)
 - [Center Panel](#main-center-panel)
 - [Editing your Theme/Add your own panels](#editing-themeadding-your-own-panels-or-scripts)
-- [Hotkeys/Shortcuts](#hotkeys-shortcuts)
+- [Hotkeys/Shortcuts](#hotkeysshortcuts)
   
 ### Scripts By Me Usage:
 - [Playlist Cover Tab Manager](#playlist-cover-tab-manager)
