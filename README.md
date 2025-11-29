@@ -1,12 +1,32 @@
 # Cyberpunk-CUI-Foobar2000-Theme
-A Cyberpunk Theme for Columns UI Foobar2000
+A Cyberpunk Theme for Columns UI Foobar2000. Focused on a clean look while utlizing several community components and scripts. 
+
+<img width="2555" height="1354" alt="image" src="https://github.com/user-attachments/assets/57e7bef6-3dfe-4791-8501-be5bc4f32d1b" />
+
+<img width="2553" height="1351" alt="image" src="https://github.com/user-attachments/assets/dc573bd0-e9f1-4dac-89b9-9c5c99f9dd7d" />
+
 
 ## Index 
-### Step by Step guidance:
-- [Install Foobar]
+### Step by Step guidance (New users Start here):
+1. [Install Foobar](#initial-install)
+  
+2. [Download Components](#download-components)
+
+3. [Install Components](#installing-components)
+
+4. [Install Packages](#preparing-biography-and-library-tree-packages)
+  
+5. [Importing Theme](#importing-theme)
+
+6. [Icon Downloads](#icons-waveform-control-panel-fixes)
+  
+7. [Adjusting Waveform Minibar](#waveform-minibar)
+
+8. [Final Adjustments](#final-touches)
 
 ### Import Theme:
-- [Import Theme (Just show me how to import the theme)](#Importing-Theme)
+
+- [Installation Instructions](#importing-theme)  (Just show me how to import the theme)
 
 ### Tips/How To:
 [Add songs/albums to a playlist]
@@ -15,12 +35,14 @@ A Cyberpunk Theme for Columns UI Foobar2000
 [Lyrics]
 [Last FM]
 
-## Scripts By Me Usage:
+### Scripts By Me Usage:
 - [Playlist Cover Tab Manager]
 - [Dynamic Image Panel]
 
-## Step By Step Guidance
+
 ### Initial install
+- I will be showing you how to install this theme on a completely fresh install.
+- First, download foobar from https://www.foobar2000.org/windows
   <img width="400" height="206" alt="image" src="https://github.com/user-attachments/assets/d368aa59-2b9f-4e16-bf7a-6deefd1b2fa8" />
   
   - Select 32bit verison
@@ -45,7 +67,7 @@ A Cyberpunk Theme for Columns UI Foobar2000
 - Componets in foobar are basically added functionality that you can add to your theme. You must download these for this theme to properly work. 
 - First create a folder like, 'fbComponents' to keep all of the components organized and in one place for an easy install.
 - It may look like much but once you finish installing, the 'hard' part is basically over!
-- Simply download all files in the component folder in this repo or from the site itself. I will include all of the links to the component used here so you can read their functions more in depth:
+- Simply download all files in the component folder in this repo or from the site itself. I will include all of the links to the component used here so you can read their functions more in depth and check our their respective authors:
 
 
 
@@ -312,4 +334,90 @@ One last step!
 
 <img width="2558" height="1381" alt="image" src="https://github.com/user-attachments/assets/d3fd5329-4722-4314-8ffc-facd8212a9b5" />
 
+## Tips and How To Use Theme
 
+### Cover main view Usage
+
+<img width="639" height="1181" alt="image" src="https://github.com/user-attachments/assets/3d6519c5-5c64-45ac-9d0f-49f6234c5435" />
+
+Components and scripts used here are Biography, Spectrum Analyzer, Openlyrics, Internet Radio and JS Smooth Browser 
+- I am just showing you how to navigate or use the basic features. Experiment yourself or check out the main documention from the author themselves.
+#### Usage for Biography
+Link for additional documentation and author for this script: https://theqwertiest.github.io/foo_spider_monkey_panel/docs/script_showcase/single_panel_scripts/#biography-wilb
+
+- For Biography panel, you can click the title to display more info
+<img width="366" height="133" alt="image" src="https://github.com/user-attachments/assets/0dd4b638-94a1-4cce-86f0-255e9595a757" />
+
+- Clicking on the album cover will also reveal additional information about the artist
+<img width="651" height="492" alt="image" src="https://github.com/user-attachments/assets/225244ae-08aa-46c4-8a6a-2e41311f4edc" />
+
+- If you don't want to gradient background you can change it by right clicking the panel > options > display > theme
+<img width="590" height="328" alt="image" src="https://github.com/user-attachments/assets/d43e6e9d-0142-4387-a971-28b30ca6dd16" />
+
+## Open lyrics
+- Right click the lyrics panel to search for lyrics or manually
+- Some songs have timestamps which is perferable as the lyrics will automatically be in sync with the song. 
+<img width="357" height="254" alt="image" src="https://github.com/user-attachments/assets/ff3f12ae-59d1-4552-b9ba-bf4765883a3e" />
+
+<img width="1812" height="592" alt="image" src="https://github.com/user-attachments/assets/d1299692-3a92-42a6-9d23-21af76d3e094" />
+
+- However sometimes songs will have no lyrics (instrumentals only) so the lyrics panel is redundant.
+- To provide a solution, simply switch to the Cover View w/o lyrics for those cases!
+
+<img width="342" height="120" alt="image" src="https://github.com/user-attachments/assets/11d476d1-2fd0-4a3c-b23c-9f8540cf050f" />
+
+- If the lyrics panels is too small, you can always adjust or use the right panel under 'Misc' for a longer panel for lyrics.
+
+
+<img width="965" height="1192" alt="image" src="https://github.com/user-attachments/assets/29eb8cd4-549a-4b33-8e25-df900892219d" />
+
+
+#### Album Viewer
+https://theqwertiest.github.io/foo_spider_monkey_panel/docs/script_showcase/single_panel_scripts/#js-smooth-browser
+
+This panel uses JS Smooth Browser 
+- Mainly used for a nice view of your album covers
+  
+<img width="644" height="1194" alt="image" src="https://github.com/user-attachments/assets/5cb29065-3e58-4ed0-8fd0-d71f30db3184" />
+
+#### Internet Radio
+
+<img width="640" height="1154" alt="image" src="https://github.com/user-attachments/assets/eed858b8-c945-4410-ad15-58c64c985f25" />
+
+### Right-Side Panel
+- This panel uses Library Tree, Item Properties, Open Lyrics, and Dynamic Image Panel(mine)
+
+#### Library Tree
+- Search
+<img width="286" height="354" alt="image" src="https://github.com/user-attachments/assets/5e1a192c-8755-44fd-8b1f-7d6fb05b5121" />
+
+https://theqwertiest.github.io/foo_spider_monkey_panel/docs/script_showcase/single_panel_scripts/#library-tree
+- Please click link for more in depth documentation.
+- I use this to search to mainly search for artists
+- You can also use this to add songs/albums to a playlist by right clicking on a specific artist. 
+
+
+<img width="314" height="110" alt="image" src="https://github.com/user-attachments/assets/33b83b8a-9a12-4f76-8816-378d8e3d2c27" />
+
+
+<img width="1443" height="702" alt="image" src="https://github.com/user-attachments/assets/fdf977a3-d677-46e2-9681-c6cd66e2fef5" />
+
+### Item Properties 
+- Info
+- Simply display track metadata of current song or selected song.
+
+<img width="299" height="1048" alt="image" src="https://github.com/user-attachments/assets/76887d3e-4dec-4fa9-aa34-9adecada0154" />
+
+### Misc.
+- Open lyrics panel
+
+### Dynamic Image Panel (main)
+
+
+<img width="66" height="96" alt="image" src="https://github.com/user-attachments/assets/4c304d51-a9b1-4027-868f-0046674c3e58" />
+
+- My own SMP script, an image slideshow visualizer with extensive customization options.
+- Right-click the panel and click 'Configure panel..'
+- Specifiy image paths
+
+  
