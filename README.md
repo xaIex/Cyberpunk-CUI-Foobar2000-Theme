@@ -66,7 +66,7 @@ A Cyberpunk Theme for Columns UI Foobar2000. Focused on a clean look while utliz
 - Componets in foobar are basically added functionality that you can add to your theme. You must download these for this theme to properly work. 
 - First create a folder like, 'fbComponents' to keep all of the components organized and in one place for an easy install.
 - It may look like much but once you finish installing, the 'hard' part is basically over!
-- Simply download all files in the component folder in this repo _(foobar components)_ or from the site itself. I will include all of the links to the component used here so you can read their functions more in depth and check our their respective authors:
+- Simply download all files in the component folder in this repo **_(foobar components)_** or from the site itself. I will include all of the links to the component used here so you can read their functions more in depth and check our their respective authors:
 
 
 
@@ -244,7 +244,7 @@ Some of the panels are collasped and just need to be adjust to your screen. Sinc
 
 - There are still issues with the waveform bar and icons why?
 - Just like the panels, we need to just adjust the waveform bar. And for the icons, we simply just need to download a few fonts.
-- I have already included all of the fonts in the repo _(foofonts)_. Simply download the raw files and place them into your folder.
+- I have already included all of the fonts in the repo **_(foofonts)_**. Simply download the raw files and place them into your folder.
 - Here are the links for the fonts as well:
   
 **Webdings 1-3:**
