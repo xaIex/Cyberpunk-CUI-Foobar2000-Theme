@@ -87,7 +87,7 @@ A Dark Cyberpunk Theme for Columns UI Foobar2000. Focused on a clean look with s
 
 **Essential Components:**
 
-_Spider Monkey Panel_ - https://github.com/TheQwertiest/foo_spider_monkey_panel/releases/tag/v1.6.1
+_Spider Monkey Panel_ - https://github.com/marc2k3/foo_spider_monkey_panel/releases/tag/1.6.2.25.11.15
 
 _Columns UI_ - https://www.foobar2000.org/components/view/foo_ui_columns
 
