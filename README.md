@@ -154,6 +154,7 @@ After downloading, your folder should look something like this, ready to install
 
 
 - Here is what it should look like:
+- Note: I accidently downloaded the older verision of SMP 1.6.1. You should use 1.6.2 which is what this theme uses. If you downloaded from the link I provided or from the repo, you should have 1.6.2 installed.
 
 <img width="840" height="417" alt="image" src="https://github.com/user-attachments/assets/e1d1351e-2854-4e87-96bf-1d5aee04d80e" />
 
