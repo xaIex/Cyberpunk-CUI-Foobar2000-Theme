@@ -391,6 +391,9 @@ https://theqwertiest.github.io/foo_spider_monkey_panel/docs/script_showcase/sing
 
 This panel uses JS Smooth Browser 
 - Mainly used for a nice view of your album covers
+- Uses Jsplitter environment, not SMP
+- However, it is included in the sample scripts in SMP 1.6.1
+- It is best to use SMP 1.6.2 which this theme uses.
   
 <img width="644" height="1194" alt="image" src="https://github.com/user-attachments/assets/5cb29065-3e58-4ed0-8fd0-d71f30db3184" />
 
@@ -489,7 +492,8 @@ https://theqwertiest.github.io/foo_spider_monkey_panel/docs/script_showcase/sing
 ## Main Center Panel
 ### JS Smooth Playlist, Adding songs to a playlist easily
 https://theqwertiest.github.io/foo_spider_monkey_panel/docs/script_showcase/single_panel_scripts/#js-smooth-playlist
-- Using main playlist viewer, JS Smooth Browser, simply drag and drop to a specified playlist 
+- Uses JSplitter environment like JS Smooth Browser. 
+- Using the main playlist viewer, JS Smooth Playlist, simply drag and drop to a specified playlist 
 
 
 <img width="1449" height="710" alt="image" src="https://github.com/user-attachments/assets/8379b887-d593-4e8f-b693-35383d1edcf8" />
@@ -522,13 +526,13 @@ File > Prefrences > Tools > Last.fm Playcount.Sync
 
 ## Editing Theme/Adding your own panels or scripts
 
-- Previously I showed you can use the `live layout editing` feature through File > Layout > live editing or File > Preferences > Display > Columns UI > Layout
-- I like doing it the second way as it gives me more control and an overview.
-- For example, lets say we want to change some of the panels in the right side of the theme.
-- Here is how the layout is correlated to the panels
+- Previously I showed you that you can use the `live layout editing` feature through File > Layout > live editing **OR** File > Preferences > Display > Columns UI > Layout
+- I like doing it the second way as it gives me more control and an overview of the layout.
+- For example, lets say we want to change some of the panels on the right side of the theme.
+- Here is how the layout is correlated to the panels:
 - Each entry is nested into the `Tab Stack` which allows us to have mutliple panels in one.
 - `Vertical Splitter` Allow for panels to be placed stacked on top of each other.
-- `Output Device`, `Playback Order` and SMP for ex are nested in the `Vertical Splitter` which is nested within `Tab Stack`
+- `Output Device`, `Playback Order` and SMP for example, are nested in the `Vertical Splitter` which is nested within `Tab Stack`
 - Note: Depending on your OS, the naming convention may be different but still the same.
 - `Vertical Splitter` = `Column`
 - `Horizontonal Splitter` = `Row`
