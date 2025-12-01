@@ -478,7 +478,8 @@ https://theqwertiest.github.io/foo_spider_monkey_panel/docs/script_showcase/sing
 - Also a script by me.
 - Essentially replaces playlist tabs and functions like a spotify-like playlist manager.
 - You can do all of the essentials like Save, Load, Delete, Rename, Move, Add and Duplicate playlists.
-- As well as extensive customizations available.
+- Simply right click on a playlist to display all of the options.
+- Extensive customization options are also available.
 - A github for more details is provided: https://github.com/xaIex/Playlist-Tab-Cover-Manager
 
 
