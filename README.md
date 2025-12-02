@@ -78,7 +78,7 @@ A dark Cyberpunk Theme for Columns UI Foobar2000. Focused on a clean dynamic loo
 - Ignore the quick setup and just hit OK
 
 ### Download Components 
-- Componets in foobar are basically added functionality that you can add to your theme. You must download these for this theme to properly work. 
+- Components in foobar are basically added functionality that you can add to your theme. You must download these for this theme to properly work. 
 - First create a folder like, 'fbComponents' to keep all of the components organized and in one place for an easy install.
 - It may look like much but once you finish installing, the 'hard' part is basically over!
 - Simply download all files in the component folder in this repo `(foobar components)` or from the site itself. I will include all of the links to the component used here so you can read their functions more in depth and check our their respective authors:
