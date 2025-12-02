@@ -327,7 +327,7 @@ Right click on the waveform bar
 
 - Looks better!
 - But there still a weird outline, why? 
-- We just need to enable uncheck a box in preferences. Simply right click the waveform bar and click 'configure'
+- We just need to uncheck a box in preferences. Simply right click the waveform bar and click 'configure'
 - Check 'Transparent background (require Columns UI)' and Uncheck 'Draw window border'
 
 <img width="739" height="571" alt="image" src="https://github.com/user-attachments/assets/b0d00b1c-25bf-42ca-b119-60acd4e47aaa" />
