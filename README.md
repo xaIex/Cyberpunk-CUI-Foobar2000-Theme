@@ -366,7 +366,7 @@ Link for additional documentation and author for this script: https://theqwertie
 - Clicking on the album cover will also reveal additional information about the artist
 <img width="651" height="492" alt="image" src="https://github.com/user-attachments/assets/225244ae-08aa-46c4-8a6a-2e41311f4edc" />
 
-- If you don't want to gradient background you can change it by right clicking the panel > options > display > theme
+- If you don't want the album art background you can change it by right clicking the panel > options > display > theme
 <img width="590" height="328" alt="image" src="https://github.com/user-attachments/assets/d43e6e9d-0142-4387-a971-28b30ca6dd16" />
 
 ## Open lyrics
