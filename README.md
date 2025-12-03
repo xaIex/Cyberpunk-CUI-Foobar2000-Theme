@@ -8,6 +8,9 @@ A dark Cyberpunk Theme for Columns UI Foobar2000. Focused on a clean dynamic loo
 
 
 ## Index 
+### Download Theme
+- [Download](#download-theme)
+
 ### Step by Step guidance (New users Start here):
 1. [Install Foobar](#initial-install)
   
