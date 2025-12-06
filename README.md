@@ -222,7 +222,7 @@ File > Preferences > Columns UI > Import Configuration...
 
 - Now the colors are accurate! But where are the rest of the panels? 
 Some of the panels are collasped and just need to be adjusted to your screen. Since my theme was made on a 24in monitor, my small laptop doesnt have enough screen for that so we need to adjust with the dividers. 
-
+- File > Preferences > Display > Columns UI > Layout > Misc to adjust the divider widths. (set it to a value other than 0 to adjust)
 - Pull this divider out:
 
 <img width="690" height="462" alt="image" src="https://github.com/user-attachments/assets/7fc8c476-a12a-4430-8268-ae30a4e218b5" />
