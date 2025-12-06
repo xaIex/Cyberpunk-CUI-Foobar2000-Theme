@@ -483,7 +483,7 @@ https://theqwertiest.github.io/foo_spider_monkey_panel/docs/script_showcase/sing
 - You can do all of the essentials like Save, Load, Delete, Rename, Move, Add and Duplicate playlists.
 - Simply right click on a playlist to display all of the options.
 - Extensive customization options are also available.
-- A github for more details is provided: https://github.com/xaIex/Playlist-Tab-Cover-Manager
+- A repo for more details is provided: https://github.com/xaIex/Playlist-Tab-Cover-Manager
 
 
 <img width="156" height="1151" alt="image" src="https://github.com/user-attachments/assets/2df19b4e-57a6-4413-8202-8d83ad6039be" />
