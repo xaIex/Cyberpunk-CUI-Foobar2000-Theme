@@ -414,7 +414,7 @@ This panel uses JS Smooth Browser
 
 https://theqwertiest.github.io/foo_spider_monkey_panel/docs/script_showcase/single_panel_scripts/#library-tree
 - Please click link for more in depth documentation.
-- I use this to search to mainly search for artists
+- I mainly use this to search for artists
 - You can also use this to add songs/albums to a playlist by right clicking on a specific artist. 
 
 
