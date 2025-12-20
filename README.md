@@ -120,7 +120,7 @@ _playcount stats_- https://www.foobar2000.org/components/view/foo_playcount
 
 _Playcount sync_ - https://marc2k3.github.io/component/lastfm-playcount-sync/
 
-_Note:I wasnt sure what I downdloaded playcount sync but I am pretty sure it was the link above but it is now removed, use the component in the repo folder (foobar components) for the download_
+_Note:I wasnt sure where I downdloaded playcount sync but I am pretty sure it was the link above but it is now removed, use the component in the repo folder (foobar components) for the download_
 
 **Extra Components:**
 
