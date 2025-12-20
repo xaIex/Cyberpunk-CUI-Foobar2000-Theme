@@ -4,7 +4,7 @@ A dark Cyberpunk Theme for Columns UI Foobar2000. Focused on a clean dynamic loo
 
 ![Animation7](https://github.com/user-attachments/assets/e06f9760-af55-4097-9a1d-575f4d9759cd)
 
-![Animation788756-ezgif com-optimize](https://github.com/user-attachments/assets/8937725c-9e53-47d6-a026-4671add21d0a)
+
 
 
 ## Index 
