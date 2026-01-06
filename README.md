@@ -63,7 +63,7 @@ A dark Cyberpunk Theme for Columns UI Foobar2000. Focused on a clean dynamic loo
 <img width="400" height="206" alt="image" src="https://github.com/user-attachments/assets/d368aa59-2b9f-4e16-bf7a-6deefd1b2fa8" />
   
 - Select 32bit verison
-- Note: Now that SMP is avaiable for V2 64bit, you can select the 64bit verision and make sure to use the theme titled `Cyberpunk Night Theme CUI 3.0 64bit`
+- Note: Now that SMP is available for V2 64bit, you can select the 64bit verision and make sure to use the theme titled `Cyberpunk Night Theme CUI 3.0 64bit`
 - Continue using the previous theme if you'd like to stay on 32bit. The setup is the same. 
 
 
