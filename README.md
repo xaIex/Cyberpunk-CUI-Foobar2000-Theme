@@ -261,6 +261,10 @@ Some of the panels are collasped and just need to be adjusted to your screen. Si
 
 ## Icons, Waveform, Control Panel Fixes
 
+**Fluent Control Panel - Credit to u/eurekagliese for the script**
+The theme already imported the script but here is the link for reference: https://pastebin.com/YPDtRXcE
+Please view his page for more details 
+
 <img width="736" height="161" alt="image" src="https://github.com/user-attachments/assets/5d0806d9-3669-4d03-8e94-9bc320412d71" />
 
 - There are still issues with the waveform bar and icons why?
