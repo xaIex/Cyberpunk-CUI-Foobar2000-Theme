@@ -51,6 +51,7 @@ A dark Cyberpunk Theme for Columns UI Foobar2000. Focused on a clean dynamic loo
 <img width="1884" height="401" alt="image" src="https://github.com/user-attachments/assets/0e0f0637-8876-43d1-bd59-6d1d9b3577bd" />
 
 - Download raw file, either 2.2 (32bit) or 3.0 (64bit)
+- If you are new, I recommend downloading 64bit foobar
 
 <img width="256" height="137" alt="image" src="https://github.com/user-attachments/assets/0488e724-3216-4380-a869-a10cdc9e5f8c" />
 
