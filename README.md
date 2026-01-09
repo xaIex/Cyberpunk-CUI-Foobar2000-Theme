@@ -1,5 +1,5 @@
 # Cyberpunk-CUI-Foobar2000-Theme
-A dark Cyberpunk Theme for Columns UI Foobar2000. Focused on a clean dynamic look with switchable tabs while utilizing several community components and scripts. 
+A dark Cyberpunk Theme for Columns UI Foobar2000 for 32 or 64 bit. Focused on a clean dynamic look with switchable tabs while utilizing several community components and scripts. 
 
 
 ![Animation7](https://github.com/user-attachments/assets/e06f9760-af55-4097-9a1d-575f4d9759cd)
