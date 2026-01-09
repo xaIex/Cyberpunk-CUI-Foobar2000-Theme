@@ -11,7 +11,7 @@ A dark Cyberpunk Theme for Columns UI Foobar2000 32 or 64 bit. Focused on a clea
 ### Download
 - [Download Theme](#download-theme)
 
-### Step by Step guidance (New users Start here):
+### Step by Step Guidance (New users start here):
 1. [Install Foobar](#initial-install)
   
 2. [Download Components](#download-components)
