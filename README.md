@@ -65,6 +65,7 @@ A dark Cyberpunk Theme for Columns UI Foobar2000 32 and 64 bit. Focused on a cle
   
 - Select 32bit or 64bit version
 - Note: Now that SMP is available for V2 64bit, you can select the 64bit version and make sure to use the theme titled `Cyberpunk Night Theme CUI 3.0 64bit`
+- **Make sure to download the proper SMP verision for 32 or 64 bit. Use 1.6.2 SMP for 32bit and 1.7 SMP for 64bit**
 - Continue using the previous theme version if you'd like to stay on 32bit. The setup is the same. 
 
 
