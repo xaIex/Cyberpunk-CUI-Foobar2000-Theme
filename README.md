@@ -94,9 +94,11 @@ A dark Cyberpunk Theme for Columns UI Foobar2000 32 and 64 bit. Focused on a cle
 
 **Essential Components:**
 
+https://github.com/TheQwertiest/foo_spider_monkey_panel
+
 _Spider Monkey Panel for 32bit V2 foobar_ - https://github.com/marc2k3/foo_spider_monkey_panel/releases/tag/1.6.2.25.11.15
 
-https://github.com/TheQwertiest/foo_spider_monkey_panel
+
 OR
 
 _Spider Monkey Panel for 64bit foobar_ - [https://github.com/marc2k3/foo_spider_monkey_panel/releases/tag/1.6.2.25.11.15](https://github.com/marc2k3/spider-monkey-panel-x64/releases/tag/1.7.26.3.5)
