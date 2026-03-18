@@ -602,4 +602,30 @@ File > Prefrences > Tools > Last.fm Playcount.Sync
 
 ## Artist Cover Groupings
 
+<img width="1500" height="479" alt="image" src="https://github.com/user-attachments/assets/241dfe25-32c1-4751-9c9a-955ec908398a" />
 
+
+By default JS Smooth Playlist will group based on albums, however some would like to have the Artist to group instead of just the album. Thanks to haiporo9x88x suggestion, I edited the playlist viewer script, specifically the `jssp.js` file to allow this. The way it gets the artist images is through Biography images. It uses the same path where Biography keeps its images for the artist. I am not sure if you need to actively use Biography but make sure to at least install it in case. Regardless, I have also included a way to add your own images to the artist cover in case Biography cannot find one. 
+
+- First, download the `jssp.js` file from the repo. Locate the jssp.js file. Here is the path: \foobar2k64bit\profile\user-components-x64\foo_uie_jsplitter\samples\js-smooth\js\jssp.js. If you still cannot find it, go into the command prompt and search within the foobar folder. For ex. `where /R C:\Users\alex\Desktop\foobar2k64bit\ jssp.js` where /R will search every folder in the foobar directory. 
+
+- Once you have located the file, **make a copy of it** just in case. Copy and paste the contents of the file you just downloaded and paste them into the `jssp.js` file and save. 
+
+<img width="990" height="584" alt="image" src="https://github.com/user-attachments/assets/194b282a-e775-450a-8bd6-1dd17daf355d" />
+
+
+- Reload foobar and now the artist will grouped together with their respective albums/tracks.
+
+<img width="1489" height="964" alt="image" src="https://github.com/user-attachments/assets/89a0145d-d020-4a0a-a72a-91a3ceba7499" />
+
+- If Biography cannot find an image or you would like to change it, simply left click and specifty the image path.
+
+<img width="1451" height="382" alt="image" src="https://github.com/user-attachments/assets/157232bc-2d2c-4b13-bd0a-adf65933c081" />
+
+<img width="528" height="200" alt="image" src="https://github.com/user-attachments/assets/8e71f1de-95d2-4f00-b767-43e214ae6115" />
+
+
+<img width="1449" height="381" alt="image" src="https://github.com/user-attachments/assets/7f6ad486-0406-4923-ab22-79ee8b36f29d" />
+
+
+- If the artist grouping block is too large or big, you can adjust it in the script itself. Adjust this line; `var _artistSlots = ppt.groupHeaderRowsNumber + 1;`, delete the +1 to make is smaller or increase the value to make it bigger 
