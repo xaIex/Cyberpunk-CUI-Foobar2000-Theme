@@ -2808,8 +2808,14 @@ this._artistImageContextMenu = function (x, y, row) {
 					if (!_fso.FileExists(_file)) {
 						fb.ShowPopupMessage("File not found:\n" + _file, "Artist Image");
 					} else {
-						if (!_fso.FolderExists(_bioFolder)) {
-							_fso.CreateFolder(_bioFolder);
+						var _parts = _bioFolder.split("\\");
+						var _buildPath = "";
+						for (var _pi = 0; _pi < _parts.length; _pi++) {
+							if (_parts[_pi].length == 0) continue;
+							_buildPath += _parts[_pi] + "\\";
+							if (!_fso.FolderExists(_buildPath)) {
+								try { _fso.CreateFolder(_buildPath); } catch(e) {}
+							}
 						}
 						_fso.CopyFile(_file, _bioFolder + "custom.jpg", true);
 						delete g_artist_cache[_artistKey];
