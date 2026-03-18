@@ -39,6 +39,7 @@ A dark Cyberpunk Theme for Columns UI Foobar2000 32 and 64 bit. Focused on a cle
 - [Center Panel](#main-center-panel)
 - [Editing your Theme/Add your own panels](#editing-themeadding-your-own-panels-or-scripts)
 - [Hotkeys/Shortcuts](#hotkeysshortcuts)
+- [JS Smooth Playlist Artist Cover Groupings](#artist-cover-groupings)
   
 ### Scripts By Me Usage:
 - [Playlist Cover Tab Manager](#playlist-cover-tab-manager)
@@ -599,5 +600,6 @@ File > Prefrences > Tools > Last.fm Playcount.Sync
 
 <img width="859" height="672" alt="image" src="https://github.com/user-attachments/assets/1f0e65f5-f2fa-4b91-b42a-d566e81beb0a" />
 
+## Artist Cover Groupings
 
 
