@@ -4,7 +4,7 @@ A dark Cyberpunk Theme for Columns UI Foobar2000 32 and 64 bit. Focused on a cle
 
 ![Animation7](https://github.com/user-attachments/assets/e06f9760-af55-4097-9a1d-575f4d9759cd)
 
-
+![Recording2026-03-18225455-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/9bd1326b-d2cb-494a-a3a8-5a45de70db6b)
 
 
 ## Index 
