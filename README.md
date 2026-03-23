@@ -551,7 +551,7 @@ File > Prefrences > Tools > Last.fm Playcount.Sync
 ## Editing Theme/Adding your own panels or scripts
 
 - Previously I showed you that you can use the `live layout editing` feature through File > Layout > live editing **OR** File > Preferences > Display > Columns UI > Layout
-- I prefer the latter because it gives me more control and an overview of the layout.
+- I prefer the ladder because it gives me more control and an overview of the layout.
 - For example, lets say we want to change some of the panels on the right side of the theme.
 - Here is how the layout is correlated to the panels:
 - Each entry is nested into the `Tab Stack` which allows us to have mutliple panels in one.
